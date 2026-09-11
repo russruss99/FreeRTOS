@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:55:6:StartTempTask	2
+../Core/Src/freertos.c:94:6:StartLedTask	3
+../Core/Src/freertos.c:122:6:StartButtonTask	2
+../Core/Src/freertos.c:143:6:HAL_GPIO_EXTI_Callback	2
